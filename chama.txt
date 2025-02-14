@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Feliz San Valentín</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-pink-50 font-sans text-gray-800">
+
+  <!-- Contenedor principal -->
+  <div class="flex justify-center items-center min-h-screen">
+
+    <!-- Caja de dedicatoria -->
+    <div class="bg-white p-8 rounded-lg shadow-xl max-w-lg text-center">
+      <h1 class="text-4xl font-semibold text-pink-600 mb-4">Feliz San Valentín</h1>
+
+      <p class="text-lg mb-4 text-gray-600">
+        "Chama Realmente lo siento mucho por todo lo que paso, me siento vacio y solo ya que no estas, te mando esto para que me des una oportunidad si es asi le das click ahi abajo y si es no ignora esto "
+      </p>
+
+      <img src="niña linda.jpg" alt="Corazón y flores" class="w-full rounded-lg mb-6"/>
+
+      <p class="text-xl font-semibold text-pink-500">Con todo mi cariño,</p>
+      <p class="text-lg text-gray-500">El malito ):</p>
+
+      <div class="mt-6">
+        <a href="https://www.instagram.com/d_veloz01/" target="_blank" class="inline-flex items-center bg-pink-500 text-white py-2 px-4 rounded-full hover:bg-pink-600 transition">
+          <span class="mr-2">Sígueme</span>
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 3h5a2 2 0 012 2v5m0 0a2 2 0 01-2 2h-5m5-5L9 15m0 0a2 2 0 01-2 2H4a2 2 0 01-2-2V9a2 2 0 012-2h5m0 0l7 7"></path>
+          </svg>
+        </a>
+      </div>
+
+    </div>
+  </div>
+
+</body>
+</html>
